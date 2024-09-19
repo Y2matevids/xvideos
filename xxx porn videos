@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>WELCOME PAGE</title>
+</head>
+ <header>MOVIES AND MUCIC STORE</header>
+ <style>
+    header{
+        color: blue;
+        height: 100px;
+        width: 5px;
+        font-size: 100px;
+        width: fit-content;
+        background-color: antiquewhite;
+     
+    }
+    body{
+        margin-left: 120PX;
+        margin-right: 120PX;
+    }
+   
+    }
+    h6{
+        color: red;
+        font-size: 30px;
+        margin-top: 0px;
+    }
+ </style>
+ <body>
+    <h1>xxx free porn videos</h1>
+    <style>
+        h1{
+            color: blue;
+            font-size: 90px;
+            margin-top: 100px;
+        }
+    </style>   
+ </body>
+ <body>
+    <style>
+        video{
+            gap: 20px;
+        }
+    </style>
+    
+        
+ </body>
+    <footer>
+    <text>more videos will be uploaded later</text>
+    <h5>You can visit us on our platforms like
+        <a href="https" target="_blank" rel="noopener">Facebook</a>  
+    <a href="mailto:burnac321@gmail.com" target="_blank" rel="noopener">Mail us</a>
+    </h5>    
+    <Style>
+        h5{
+            color: blue;
+            font-size: 40px;
+        }
+        a{
+            color: blue;
+            font-size: 40px;
+            font-weight: bolder;
+        }
+        text{
+            color: blue;
+            font-size: 40px;
+        }
+    </Style>
+</footer>
+</html>
